@@ -1,0 +1,45 @@
+.navigation{
+    width: 62vw;
+    background-color: gray;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+}
+a{
+    text-decoration: none;
+    color: blanchedalmond;
+}
+.favorite {
+    border: 1px solid black;
+    width: 720px;
+    padding: 20px;
+    background-color: bisque;
+    border-radius: 10px
+}
+.photo{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    border: 1px solid black;
+    background-color: grey;
+    margin-top: 10px;
+    height: 60px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.header{
+background-color: bisque;
+border: 1px solid black;
+border-radius: 10px;
+text-align: center;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+.body{
+    background-color: turquoise;
+}
+
